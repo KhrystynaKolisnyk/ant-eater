@@ -1,7 +1,8 @@
-# Social network service
-[*Ruby, Rails, React, Redux, Webpack*]
+# Ant-eater
+### social network
 ***
-# Basic Demo Setup
+
+[*React allows developers to create large web applications that use data which can change over time, without reloading the page. Its main goal is to be fast, simple and scalable. React processes only user interface in applications.*]
 
 #### *Preparation*
 > App uses PostgreSQL. You need change config in database.yml or create new pg_user:
